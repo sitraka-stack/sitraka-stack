@@ -54,9 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sitraka-stack&show_icons=true)
 
 ## 🤝 Connect with Me
 
