@@ -54,17 +54,21 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitraka-stack&show_icons=true&theme=blueberry&hide_border=true" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sitraka-stack&show_icons=true&theme=blueberry&hide_border=true"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitraka-stack&layout=compact&theme=blueberry&hide_border=true" height="130" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitraka-stack&layout=compact&theme=blueberry&hide_border=true"
+    height="130"
+  />
 </p>
-
----
 
 ## 🤝 Connect with Me
 
