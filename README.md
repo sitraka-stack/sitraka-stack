@@ -56,9 +56,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sitraka-stack&show_icons=true&theme=blueberry&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitraka-stack&layout=compact&theme=blueberry&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=sitraka-stack&show_icons=true)
 
 ## 🤝 Connect with Me
 
