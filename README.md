@@ -12,7 +12,7 @@
 **EN 🇬🇧**
 
 * 🌱 Currently learning **PHP, Python, Django & React**
-* 🎓 Computer Science student (L1) at **ESTI – Madagascar**
+* 🎓 Computer Science student (L2) at **ESTI – Madagascar**
 * 💡 Interested in **web development, backend systems & clean UI**
 * 🎯 Goal: become a **professional fullstack developer**, build impactful projects and grow in tech
 
